@@ -6,4 +6,4 @@ Hello Git's World!
 
 我不爱Git了
 
-我还是喜欢Github Desktop
+我只喜欢Git命令行
